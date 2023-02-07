@@ -1,0 +1,11 @@
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.csproj.AssemblyReference.cache
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.csproj.SuggestedBindingRedirects.cache
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.Form1.resources
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.Properties.Resources.resources
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.csproj.GenerateResource.cache
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.csproj.CoreCompileInputs.cache
+C:\Users\mlee\source\repos\Cs2tic\bin\Release\Cs2tic.exe.config
+C:\Users\mlee\source\repos\Cs2tic\bin\Release\Cs2tic.exe
+C:\Users\mlee\source\repos\Cs2tic\bin\Release\Cs2tic.pdb
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.exe
+C:\Users\mlee\source\repos\Cs2tic\obj\Release\Cs2tic.pdb
